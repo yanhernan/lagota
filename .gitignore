@@ -61,3 +61,10 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+
+# Android Ignore
+/android/daemon/
+/android/caches/
+/android/native/
+/android/notifications/
