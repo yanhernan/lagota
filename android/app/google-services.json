@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061156214261",
+    "firebase_url": "https://la-gota.firebaseio.com",
+    "project_id": "la-gota",
+    "storage_bucket": "la-gota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061156214261:android:f28787331f9e81bc6abcbc",
+        "android_client_info": {
+          "package_name": "com.lagota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061156214261-gscvj8g4do9vrgv103624rjhtkg52s5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lagota",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1061156214261-9pnfmnk29ci8l3lbcgh5a33m4q65v85e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv-51JUHwiNVv29eFkDVN9u5gKxmZ7h1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061156214261-9pnfmnk29ci8l3lbcgh5a33m4q65v85e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061156214261-h9k7kl7bm02d9imkvc15a4sgbjibv3gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LaGota"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
